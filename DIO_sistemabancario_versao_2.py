@@ -1,6 +1,8 @@
 
-# Exercício Curso Python Developer Plataforma DIO.me, Capítulo 1
+# Exercício Curso Python Developer Plataforma DIO.me, Capítulo 2
 # SISTEMA BANCARIO PYTHON
+# Versão aprimorada usando usando as ações através de funções e tratamento
+# de cadastro de clientes e contas para vinculação aos depósitos, saques e extratos
 
 menu = """
 ==============================================
